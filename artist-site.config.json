@@ -1,0 +1,64 @@
+{
+  "artistName": "Rosaline",
+  "handle": "@Rosaline",
+  "location": "In your heart :D",
+  "bio": "Self-portrait Photographer\n",
+  "statement": "",
+  "heroImage": "/artworks/hero-hnep572d-400x400-1.jpg",
+  "accentColor": "#ff0000",
+  "contract": {
+    "address": "0xb90d8281d272e1a179e352a0795bb5ce32736904",
+    "chainId": 1,
+    "chainName": "Ethereum",
+    "currencySymbol": "ETH",
+    "mintFunction": "mint",
+    "collectionName": "Rosaline 1/1s",
+    "collectionSymbol": "R11",
+    "payoutAddress": "0x1206204292D706d6e684cf6F425Bd89F179041B2",
+    "mediaBaseUri": "https://github.com/lensonskin-lab/rosaline/blob/58c203a60992cc8bc9a45cedc3be1976e45ff4a7/Rosaline-media.zip",
+    "metadataBaseUri": "https://github.com/lensonskin-lab/rosaline/blob/58c203a60992cc8bc9a45cedc3be1976e45ff4a7/Rosaline-media.zip",
+    "contractUri": "https://github.com/lensonskin-lab/rosaline/blob/58c203a60992cc8bc9a45cedc3be1976e45ff4a7/Rosaline-media.zip",
+    "hostingMode": "decentralized"
+  },
+  "links": [
+    {
+      "id": "catalog",
+      "label": "Catalog",
+      "url": "https://linktr.ee/lensonskin"
+    }
+  ],
+  "artworks": [
+    {
+      "id": "artwork-mrl7mw1t-delp7",
+      "contractArtworkId": 1,
+      "title": "Test1",
+      "year": "2026",
+      "medium": "Digital work",
+      "dimensions": "2400 x 1800 px",
+      "description": "",
+      "image": "/artworks/1-hnkrltewcaaitkz.jpg",
+      "priceEth": "0.025",
+      "supply": 1,
+      "minted": 0,
+      "status": "available",
+      "tags": [
+        "Edition"
+      ],
+      "imageFileName": "hnkrltewcaaitkz.jpg",
+      "originalFileName": "HNKrlTEWcAAiTkZ.jpg",
+      "originalFileSize": 561155,
+      "displayOptimized": false
+    }
+  ],
+  "releaseRecipe": "existing-contract",
+  "publishing": {
+    "customDomain": "rosaline.lensonskin.workers.dev",
+    "hostUrl": "rosaline.lensonskin.workers.dev",
+    "domainProvider": "cloudflare"
+  },
+  "heroFileName": "hnep572d-400x400-1.jpg",
+  "heroOriginalFileName": "HNEp572D_400x400 (1).jpg",
+  "heroOriginalFileSize": 17249,
+  "heroDisplayOptimized": false,
+  "published": true
+}

@@ -1,0 +1,5 @@
+DECENTRALIZED HOSTING
+
+1. Unzip this package.
+2. Add the entire folder to IPFS and pin the resulting folder CID.
+3. Test the CID through an IPFS gateway before updating ENS or DNSLink.

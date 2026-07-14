@@ -1,0 +1,23 @@
+ARTIST SITE OWNERSHIP RECORD
+
+Generated: 2026-07-14T22:54:58.139Z
+Artist: Rosaline
+Release: Existing contract
+Works: 1
+Total edition supply: 1
+Network: Ethereum (1)
+Contract: 0xb90d8281d272e1a179e352a0795bb5ce32736904
+Payout wallet: 0x1206204292D706d6e684cf6F425Bd89F179041B2
+Artwork media: https://github.com/lensonskin-lab/rosaline/blob/58c203a60992cc8bc9a45cedc3be1976e45ff4a7/Rosaline-media.zip
+Token metadata: https://github.com/lensonskin-lab/rosaline/blob/58c203a60992cc8bc9a45cedc3be1976e45ff4a7/Rosaline-media.zip
+Hosting: Decentralized / IPFS
+Custom domain: rosaline.lensonskin.workers.dev
+
+ARTIST CONTROL
+The wallet that deploys the contract becomes its initial owner.
+The public website is a portable static build.
+Project files can be restored in Artist Site Builder without the published website.
+
+CHANGE NOTES
+Collection name, symbol, network, and deployed contract address require a new contract to change.
+Payout, prices, sale status, metadata URIs, and hosting can be updated by the contract or site owner.
